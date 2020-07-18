@@ -1,4 +1,4 @@
-# Python-GUI-for-Arduino-Serial-Monitor
+# Python-Serial-Monitor
 
 This is simple Tkinter based GUI that allows you to Read and Store Data coming from an Arduino or other UART compatible boards.
 
